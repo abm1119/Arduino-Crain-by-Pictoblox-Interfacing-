@@ -38,7 +38,7 @@ This project was developed as part of my **Creative Digital Design & Logic (CDDL
 
 ## 🎬 Project Demo
 
-![Watch Demo](https://www.playbook.com/s/computer-systems-engineeing/HMoaREBPy6L1mzWnEouCkgfx)
+[Watch Demo](https://www.playbook.com/s/computer-systems-engineeing/HMoaREBPy6L1mzWnEouCkgfx)
 *Click above to see the robotic crane in action!*
 
 ---
